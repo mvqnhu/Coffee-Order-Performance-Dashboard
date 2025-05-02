@@ -1,12 +1,8 @@
 # Coffee Sales Performance Dashboard EXCEL
-🚀This project was built by MS Excel aims to analyze data from F&amp;B company to get insights about sales performance &amp; support Operations &amp; Sales Teams to identify key selling points, items, and consumer behaviors to optimize future profits.
+🚀This project was built by MS Excel aims to analyze data from F&amp;B company to get insights about sales performance
 
-### Stakeholder challenge: 
-Operations & Sales Teams want to identify key selling points, items, and consumer behaviors to optimize future profits.
 ### 🥅Dashboard Goal: 
-Identify key sales times, items, and consumer behaviors.
-Provide insights into customer experience based on consumption patterns.
-Propose solutions to improve CX experience from data.
+To gain a clearer view of sales trends, customer behavior, and revenue performance over time – and to turn rows of raw data into smart decisions for the business.
 
 ### 🧠Design Thinking: 
 ![image](https://github.com/user-attachments/assets/7da5ef14-7367-4dfe-9b40-7ad3ab5e4237)
